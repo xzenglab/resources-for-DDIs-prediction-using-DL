@@ -1,3 +1,3 @@
 # resources-for-DDIs-prediction-using-DL
-related to deep and graph Learning for drug-drug interactions prediction.  
+related to deep and graph learning for drug-drug interactions prediction.  
 Updating ...
