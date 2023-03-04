@@ -1,6 +1,5 @@
-# resources-for-DDIs-prediction-using-DL
-related to deep and graph learning for drug-drug interactions prediction.  
-Updating ...
+# A comprehensive evaluation of deep and graph learning on drug-drug interactions prediction  
+This is a repository to help all readers who are interested in DDIs prediction. If you find there are other resources with this topic missing, feel free to let us know via github issues, pull requests or email: jack_lin@xtu.edu.cn. We will update this repository and paper on a regular basis to maintain up-to-date.
 
 ## Menu
 
