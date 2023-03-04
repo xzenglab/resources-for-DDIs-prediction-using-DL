@@ -58,21 +58,20 @@ http://snap.stanford.edu/biodata/
 ### Hybrid method
 
 - **Gognn: Graph of graphs neural network for predicting structured entity interactions**[2020]
-  Wang H, Lian D, Zhang Y, et al
+  Wang H, Lian D, Zhang Y, et al  
   [paper](https://doi.org/10.24963/ijcai.2020/183)|[code](https://github.com/Hanchen-Wang/GoGNN)
 
 - **Muffin: multi-scale feature fusion for drug–drug interaction prediction**[2021]
-  Chen Y, Ma T, Yang X, et al
+  Chen Y, Ma T, Yang X, et al  
   [paper](https://www.researchgate.net/profile/Jianmin-Wang-3/publication/350100336_MUFFIN_Multi-Scale_Feature_Fusion_for_Drug-Drug_Interaction_Prediction/links/6063bb6592851cd8ce7ad5c1/MUFFIN-Multi-Scale-Feature-Fusion-for-Drug-Drug-Interaction-Prediction.pdf)|[code](https://github.com/xzenglab/MUFFIN.)
 
-
 - **Multi-view graph contrastive representation learning for drug-drug interaction prediction**[2021]
-  Wang Y, Min Y, Chen X, et al
+  Wang Y, Min Y, Chen X, et al  
   [paper](https://arxiv.org/pdf/2010.11711.pdf)|[code](https://github.com/isjakewong/MIRACLE)
 
 
 - **Amde: A novel attention-mechanism-based multidimensional feature encoder for drug–drug interaction prediction**[2022]
-  Pang S, Zhang Y, Song T, et al
+  Pang S, Zhang Y, Song T, et al  
   [paper](https://doi.org/10.1093/bib/bbab545)|[code](https://github.com/wan-Ying-Z/AMDE-master)
   
 ### Network based
@@ -80,27 +79,27 @@ http://snap.stanford.edu/biodata/
 #### Knowledge graph
 
 - **Drug-drug interaction prediction based on knowledge graph embeddings and convolutional-lstm network**[2019]
-  Karim MR, Cochez M, Jares JB, et al 
+  Karim MR, Cochez M, Jares JB, et al  
   [paper](https://doi.org/10.1145/3307339.3342161)|[code](https://github.com/rezacsedu/Drug-Drug-Interaction-Prediction)
 
 - **Drug–drug interaction prediction with wasserstein adversarial autoencoder-based knowledge graph embeddings**[2021]
-  Dai Y, Guo C, Guo W, et al
+  Dai Y, Guo C, Guo W, et al  
   [paper](https://arxiv.org/pdf/2004.07341.pdf)|[code](https://github.com/dyf0631/AAE_FOR_KG)
 
 - **Kgnn: Knowledge graph neural network for drug-drug interaction prediction**[2020]
-  Lin X, Quan Z, Wang ZJ, et al
+  Lin X, Quan Z, Wang ZJ, et al  
   [paper](https://xuanlin1991.github.io/files/publications/ijcai20.pdf)|[code](https://github.com/xzenglab/KGNN)
 
 - **Sumgnn: multi-typed drug interaction prediction via efficient knowledge graph summarization**[2021]
-  Yu Y, Huang K, Zhang C, et al
-  [paper]()|[code]()
+  Yu Y, Huang K, Zhang C, et al  
+  [paper](https://academic.oup.com/bioinformatics/article/37/18/2988/6189090)|[code](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/18/10.1093_bioinformatics_btab207/1/btab207_supplementary_data.pdf?Expires=1680164796&Signature=2zrjvCV58kqHfl1yG5TbcRIunIGGFV-sRwKDXEFyLbCerqDyIopuTdwSIuClQBZgiAKaHELtH8B-cno58PCI80KSs5fs34RpT5ZZXxEF3r8qT55U5ePDgV7xAURkiuBYp4M0BqmXBW-aJxKlnK7HNzI~4~v~uBHmGnxb8SaOtXnJPfqeB0MUXXceWCRwx001MTTYSMt7OXippEGGGhgAXng3LPWuEPqq6ZmMo7YHZtn6EW1OSutosHsNMTVIblf35aDIk-ognjEI8SWbzLDufQAKwLJ4IgJGnwgdk1zNw8QTqAVvKYBU84iO~iI6EYxGftnVsVl~6z~4EPzJB0Tn~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
   
 - **Link-aware graph attention network for drug-drug interaction prediction**[2022]
-  Hong Y, Luo P, Jin S, et al
+  Hong Y, Luo P, Jin S, et al  
   [paper](https://academic.oup.com/bioinformatics/article/38/24/5406/6769887?login=false)|[code](https://github.com/Azra3lzz/LaGAT)
 
 - **Attention-based knowledge graph representation learning for predicting drug-drug interactions**[2022]
-  Su X, Hu L, You Z, et al
+  Su X, Hu L, You Z, et al  
   [paper](https://academic.oup.com/bib/article-abstract/23/3/bbac140/6572660)|[code](https://github.com/Blair1213/DDKG)
   
 
