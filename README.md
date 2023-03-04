@@ -61,19 +61,19 @@ http://snap.stanford.edu/biodata/
 
   Wang H, Lian D, Zhang Y, et al  
   
-  [paper](https://doi.org/10.24963/ijcai.2020/183)|[code](https://github.com/Hanchen-Wang/GoGNN)
+  [paper](https://doi.org/10.24963/ijcai.2020/183) | [code](https://github.com/Hanchen-Wang/GoGNN)
 
 - **Muffin: multi-scale feature fusion for drug–drug interaction prediction**[2021]
 
   Chen Y, Ma T, Yang X, et al  
   
-  [paper](https://www.researchgate.net/profile/Jianmin-Wang-3/publication/350100336_MUFFIN_Multi-Scale_Feature_Fusion_for_Drug-Drug_Interaction_Prediction/links/6063bb6592851cd8ce7ad5c1/MUFFIN-Multi-Scale-Feature-Fusion-for-Drug-Drug-Interaction-Prediction.pdf)|[code](https://github.com/xzenglab/MUFFIN.)
+  [paper](https://www.researchgate.net/profile/Jianmin-Wang-3/publication/350100336_MUFFIN_Multi-Scale_Feature_Fusion_for_Drug-Drug_Interaction_Prediction/links/6063bb6592851cd8ce7ad5c1/MUFFIN-Multi-Scale-Feature-Fusion-for-Drug-Drug-Interaction-Prediction.pdf) | [code](https://github.com/xzenglab/MUFFIN.)
 
 - **Multi-view graph contrastive representation learning for drug-drug interaction prediction**[2021]
 
   Wang Y, Min Y, Chen X, et al  
   
-  [paper](https://arxiv.org/pdf/2010.11711.pdf)|[code](https://github.com/isjakewong/MIRACLE)
+  [paper](https://arxiv.org/pdf/2010.11711.pdf) | [code](https://github.com/isjakewong/MIRACLE)
 
 
 - **Amde: A novel attention-mechanism-based multidimensional feature encoder for drug–drug interaction prediction**[2022]
