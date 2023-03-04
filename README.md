@@ -4,7 +4,6 @@ This is a repository to help all readers who are interested in DDIs prediction. 
 ## Menu
 
 - [Datasets](#Datasets)
-- [Platform and toolkit](#Platform-and-toolkit)
 - [Methods](#Methods)
   - [Hybrid method](#Hybrid-method)
   - [Network based](#Network-based)
@@ -17,7 +16,7 @@ This is a repository to help all readers who are interested in DDIs prediction. 
     - [Molecular graph](#Molecular-graph)
     - [Similarity based](#Similarity-based)
 - [Baseline models](#Baseline-models)
-
+- [Platform and toolkit](#Platform-and-toolkit)
 
 ## Datasets
 
@@ -38,18 +37,6 @@ https://tatonettilab.org/resources/tatonetti-stm.html
 
 **BIOSNAP**
 http://snap.stanford.edu/biodata/
-
-
-
-## Platform and toolkit
-
-- [DeepChem](https://deepchem.io/)
-- [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
-- [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix)
-- [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)
-- [TorchDrug](https://torchdrug.ai/)
-- [ADMETlab](https://admetmesh.scbdd.com/)
-- [ChemicalX](https://github.com/AstraZeneca/chemicalx)
 
 
 
@@ -466,3 +453,14 @@ http://snap.stanford.edu/biodata/
 
   [paper](https://linkinghub.elsevier.com/retrieve/pii/S0020025521009294) | [code](https://github.com/DongWenMin/RANEDDI)
   
+  
+  
+  ## Platform and toolkit
+
+- [DeepChem](https://deepchem.io/)
+- [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
+- [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix)
+- [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)
+- [TorchDrug](https://torchdrug.ai/)
+- [ADMETlab](https://admetmesh.scbdd.com/)
+- [ChemicalX](https://github.com/AstraZeneca/chemicalx)
