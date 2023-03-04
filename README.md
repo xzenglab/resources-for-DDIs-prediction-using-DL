@@ -5,15 +5,15 @@ This is a repository to help all readers who are interested in DDIs prediction. 
 
 - [Datasets](#Datasets)
 - [Methods](#Methods)
+  - [Chemical structure based](#Chemical-structure-based)
+    - [Similarity based](#Similarity-based)
+    - [Molecular graph](#Molecular-graph)
+    - [Substructure based](#Substructure-based)
   - [Network based](#Network-based)
     - [Graph embedding](#Graph-embedding)
     - [Link prediction](#Link-prediction)
     - [Knowledge graph](#Knowledge-graph)
   - [NLP based](#NLP-based)
-  - [Chemical structure based](#Chemical-structure-based)
-    - [Similarity based](#Similarity-based)
-    - [Molecular graph](#Molecular-graph)
-    - [Substructure based](#Substructure-based)
   - [Hybrid method](#Hybrid-method)
 - [Baseline models](#Baseline-models)
 - [Platform and toolkit](#Platform-and-toolkit)
@@ -212,15 +212,6 @@ http://snap.stanford.edu/biodata/
   
   [paper](https://doi.org/10.1371/journal.pcbi.1010812) | [code](https://github.com/mamei1016/DGNN-DDI)
   
-  
-### NLP based
-
-- [2020]**Biobert: a pre-trained biomedical language representation model for biomedical text mining**
-
-  Lee J, Yoon W, Kim S, et al
-  
-  [paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | [code](https://github.com/dmis-lab/biobert)
-  
 
 ### Network based
 
@@ -363,6 +354,15 @@ http://snap.stanford.edu/biodata/
   [paper](https://academic.oup.com/bib/article-abstract/23/3/bbac140/6572660) | [code](https://github.com/Blair1213/DDKG)
   
 
+### NLP based
+
+- [2020]**Biobert: a pre-trained biomedical language representation model for biomedical text mining**
+
+  Lee J, Yoon W, Kim S, et al
+  
+  [paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | [code](https://github.com/dmis-lab/biobert)
+  
+  
 ### Hybrid method
 
 - [2020]**Gognn: Graph of graphs neural network for predicting structured entity interactions**
