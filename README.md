@@ -57,13 +57,13 @@ http://snap.stanford.edu/biodata/
 
 ### Hybrid method
 
-- **Gognn: Graph of graphs neural network for predicting structured entity interactions**[2020]
+- [2020]**Gognn: Graph of graphs neural network for predicting structured entity interactions**
 
   Wang H, Lian D, Zhang Y, et al  
   
   [paper](https://doi.org/10.24963/ijcai.2020/183) | [code](https://github.com/Hanchen-Wang/GoGNN)
 
-- **Muffin: multi-scale feature fusion for drug–drug interaction prediction**[2021]
+- [2021]**Muffin: multi-scale feature fusion for drug–drug interaction prediction**
 
   Chen Y, Ma T, Yang X, et al  
   
