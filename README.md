@@ -4,7 +4,7 @@ This is a repository to help all readers who are interested in DDIs prediction. 
 ## Menu
 
 - [Datasets](#Datasets)
-- [Platform and toolkit](#Platform and toolkit)
+- [Platform and toolkit](#platform-and-toolkit)
 - [Methods](#Methods)
   - [Hybrid method](#Hybrid method)
   - [Network based](#Network based)
