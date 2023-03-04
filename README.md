@@ -4,14 +4,14 @@ This is a repository to help all readers who are interested in DDIs prediction. 
 ## Menu
 
 - [Datasets](#Datasets)
-- [Platform and toolkit](#platform-and-toolkit)
+- [Platform and toolkit](#Platform-and-toolkit)
 - [Methods](#Methods)
   - [Hybrid method](#Hybrid-method)
   - [Network based](#Network-based)
     - [Knowledge graph](#Knowledge-graph)
     - [Link prediction](#Link-prediction)
     - [Graph embedding](#Graph-embedding)
-  - [NLP based](#NLP based)
+  - [NLP based](#NLP-based)
   - [Chemical structure based](#Chemical-structure-based)
     - [Structure based](#Structure-based)
     - [Molecular based](#Molecular-based)
