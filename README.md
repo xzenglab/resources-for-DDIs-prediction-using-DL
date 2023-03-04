@@ -13,8 +13,8 @@ This is a repository to help all readers who are interested in DDIs prediction. 
     - [Graph embedding](#Graph-embedding)
   - [NLP based](#NLP-based)
   - [Chemical structure based](#Chemical-structure-based)
-    - [Structure based](#Structure-based)
-    - [Molecular based](#Molecular-based)
+    - [Substructure based](#Substructure-based)
+    - [Molecular graph](#Molecular-graph)
     - [Similarity based](#Similarity-based)
 - [Baseline models](#Baseline-models)
 
@@ -238,7 +238,7 @@ http://snap.stanford.edu/biodata/
 
 ### Chemical structure based
 
-#### Structure based
+#### Substructure based
 
 - [2020]**Caster: Predicting drug interactions with chemical substructure representation**
 
@@ -295,7 +295,7 @@ http://snap.stanford.edu/biodata/
   [paper](https://doi.org/10.1371/journal.pcbi.1010812) | [code](https://github.com/mamei1016/DGNN-DDI)
 
 
-#### Molecular based
+#### Molecular graph
 
 - [2019]**Mr-gnn: Multi-resolution and dual graph neural network for predicting structured entity interactions**
 
