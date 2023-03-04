@@ -41,161 +41,7 @@ http://snap.stanford.edu/biodata/
 
 
 ## Methods
-  
-  
-### Network based
-
-#### Knowledge graph
-
-- [2019]**Drug-drug interaction prediction based on knowledge graph embeddings and convolutional-lstm network**
-
-  Karim MR, Cochez M, Jares JB, et al  
-  
-  [paper](https://doi.org/10.1145/3307339.3342161) | [code](https://github.com/rezacsedu/Drug-Drug-Interaction-Prediction)
-  
-- [2020]**Kgnn: Knowledge graph neural network for drug-drug interaction prediction**
-
-  Lin X, Quan Z, Wang ZJ, et al  
-  
-  [paper](https://xuanlin1991.github.io/files/publications/ijcai20.pdf) | [code](https://github.com/xzenglab/KGNN)
-
-- [2021]**Drug–drug interaction prediction with wasserstein adversarial autoencoder-based knowledge graph embeddings**
-
-  Dai Y, Guo C, Guo W, et al  
-  
-  [paper](https://arxiv.org/pdf/2004.07341.pdf) | [code](https://github.com/dyf0631/AAE_FOR_KG)
-
-- [2021]**Sumgnn: multi-typed drug interaction prediction via efficient knowledge graph summarization**
-
-  Yu Y, Huang K, Zhang C, et al  
-  
-  [paper](https://academic.oup.com/bioinformatics/article/37/18/2988/6189090) | [code](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/18/10.1093_bioinformatics_btab207/1/btab207_supplementary_data.pdf?Expires=1680164796&Signature=2zrjvCV58kqHfl1yG5TbcRIunIGGFV-sRwKDXEFyLbCerqDyIopuTdwSIuClQBZgiAKaHELtH8B-cno58PCI80KSs5fs34RpT5ZZXxEF3r8qT55U5ePDgV7xAURkiuBYp4M0BqmXBW-aJxKlnK7HNzI~4~v~uBHmGnxb8SaOtXnJPfqeB0MUXXceWCRwx001MTTYSMt7OXippEGGGhgAXng3LPWuEPqq6ZmMo7YHZtn6EW1OSutosHsNMTVIblf35aDIk-ognjEI8SWbzLDufQAKwLJ4IgJGnwgdk1zNw8QTqAVvKYBU84iO~iI6EYxGftnVsVl~6z~4EPzJB0Tn~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
-  
-- [2022]**Link-aware graph attention network for drug-drug interaction prediction**
-
-  Hong Y, Luo P, Jin S, et al 
-  
-  [paper](https://academic.oup.com/bioinformatics/article/38/24/5406/6769887?login=false) | [code](https://github.com/Azra3lzz/LaGAT)
-
-- [2022]**Attention-based knowledge graph representation learning for predicting drug-drug interactions**
-
-  Su X, Hu L, You Z, et al  
-  
-  [paper](https://academic.oup.com/bib/article-abstract/23/3/bbac140/6572660) | [code](https://github.com/Blair1213/DDKG)
-  
-
-#### Link prediction
-
-- [2018]**Modeling polypharmacy side effects with graph convolutional networks**
-
-  Zitnik M, Agrawal M, Leskovec J
-  
-  [paper](https://doi.org/10.1093/bioinformatics/bty294) | [code](https://github.com/mims-harvard/decagon)
-  
-- [2019]**LR-GNN: a graph neural network based on link representation for predicting molecular associations**
-
-  Xu N, Wang P, Chen L, et al
-  
-  [paper](https://arxiv.org/pdf/1905.09558) | [code](https://github.com/zhanglabNKU/LR-GNN)
-  
-- [2020]**Skipgnn: predicting molecular interactions with skip-graph networks**
-
-  Huang K, Xiao C, Glass LM, et al
-  
-  [paper](https://link.springer.com/content/pdf/10.1038/s41598-020-77766-9.pdf) | [code](https://github.com/kexinhuang12345/SkipGNN)
-  
-- [2021]**Predicting biomedical interactions with higher-order graph convolutional networks**
-
-  Kishan K, Li R, Cui F, et al
-  
-  [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9354550) | [code](https://github.com/kckishan/HOGCN-LP)
-  
-- [2022]**Directed graph attention networks for predicting asymmetric drug–drug interactions**
-
-  Feng YY, Yu H, Feng YH, et al
-  
-  [paper](https://doi.org/10.1093/bib/bbac151) | [code](https://github.com/naodandandan/DANN-DDI)
-
-- [2022]**Directed graph attention networks for predicting asymmetric drug–drug interactions**
-
-  Feng YY, Yu H, Feng YH, et al
-  
-  [paper](https://doi.org/10.1093/bib/bbab513) | [code](https://github.com/F-windyy/DGATDDI)
-
-
-#### Graph embedding
-
-- [2014]**Deepwalk: Online learning of social representations**
-
-  Perozzi B, Al-Rfou R, Skiena S
-  
-  [paper](https://dl.acm.org/doi/10.1145/2623330.2623732) | [code](https://github.com/xiangyue9607/BioNEV)
-
-- [2015]**Grarep: Learning graph representations with global structural information**
-
-  Cao S, Lu W, Xu Q
-  
-  [paper](https://dl.acm.org/doi/10.1145/2806416.2806512) | [code](https://github.com/xiangyue9607/BioNEV)
-  
-- [2015]**Line: Large-scale information network embedding**
-
-  Ribeiro LF, Saverese PH, Figueiredo DR
-  
-  [paper](https://doi.org/10.1145/2736277.2741093) | [code](https://github.com/tangjianpku/LINE)
-  
-- [2016]**node2vec: Scalable feature learning for networks**
-
-  Grover A, Leskovec J
-  
-  [paper](https://doi.org/10.1145/2939672.2939754) | [code](https://github.com/xiangyue9607/BioNEV)
-  
-- [2016]**Asymmetric transitivity preserving graph embedding**
-
-  Ou M, Cui P, Pei J, et al
-  
-  [paper](https://doi.org/10.1145/2939672.2939751) | [code](https://github.com/xiangyue9607/BioNEV)
-  
-- [2016]**Variational graph auto-encoders**
-
-  Kipf TN, Welling M
-  
-  [paper](https://arxiv.org/pdf/1611.07308.pdf%5D) | [code](https://github.com/xiangyue9607/BioNEV)
-  
-- [2017]**Structural deep network embedding**
-
-  Wang D, Cui P, Zhu W
-  
-  [paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939753) | [code](https://github.com/xiangyue9607/BioNEV)
-
-- [2017]**struc2vec: Learning node representations from structural identity**
-
-  Ribeiro LF, Saverese PH, Figueiredo DR
-  
-  [paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098061) | [code](https://github.com/xiangyue9607/BioNEV)
-
-- [2018]**Feature-derived graph regularized matrix factorization for predicting drug side effects**
-
-  Zhang W, Liu X, Chen Y, et al
-  
-  [paper](https://doi.org/10.1016/j.neucom.2018.01.085) | [code](None)
-
-- [2019]**Detecting drug communities and predicting comprehensive drug–drug interactions via balance regularized semi-nonnegative matrix factorization**
-
-  Shi JY, Mao KT, Yu H, et al
-  
-  [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0352-9) | [code](None)
-
-
-### NLP based
-
-- [2020]**Biobert: a pre-trained biomedical language representation model for biomedical text mining**
-
-  Lee J, Yoon W, Kim S, et al
-  
-  [paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | [code](https://github.com/dmis-lab/biobert)
-  
-
-
+    
 ### Chemical structure based
 
 #### Similarity based
@@ -365,6 +211,156 @@ http://snap.stanford.edu/biodata/
   Ma M, Lei X
   
   [paper](https://doi.org/10.1371/journal.pcbi.1010812) | [code](https://github.com/mamei1016/DGNN-DDI)
+  
+  
+### NLP based
+
+- [2020]**Biobert: a pre-trained biomedical language representation model for biomedical text mining**
+
+  Lee J, Yoon W, Kim S, et al
+  
+  [paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | [code](https://github.com/dmis-lab/biobert)
+  
+
+### Network based
+
+#### Graph embedding
+
+- [2014]**Deepwalk: Online learning of social representations**
+
+  Perozzi B, Al-Rfou R, Skiena S
+  
+  [paper](https://dl.acm.org/doi/10.1145/2623330.2623732) | [code](https://github.com/xiangyue9607/BioNEV)
+
+- [2015]**Grarep: Learning graph representations with global structural information**
+
+  Cao S, Lu W, Xu Q
+  
+  [paper](https://dl.acm.org/doi/10.1145/2806416.2806512) | [code](https://github.com/xiangyue9607/BioNEV)
+  
+- [2015]**Line: Large-scale information network embedding**
+
+  Ribeiro LF, Saverese PH, Figueiredo DR
+  
+  [paper](https://doi.org/10.1145/2736277.2741093) | [code](https://github.com/tangjianpku/LINE)
+  
+- [2016]**node2vec: Scalable feature learning for networks**
+
+  Grover A, Leskovec J
+  
+  [paper](https://doi.org/10.1145/2939672.2939754) | [code](https://github.com/xiangyue9607/BioNEV)
+  
+- [2016]**Asymmetric transitivity preserving graph embedding**
+
+  Ou M, Cui P, Pei J, et al
+  
+  [paper](https://doi.org/10.1145/2939672.2939751) | [code](https://github.com/xiangyue9607/BioNEV)
+  
+- [2016]**Variational graph auto-encoders**
+
+  Kipf TN, Welling M
+  
+  [paper](https://arxiv.org/pdf/1611.07308.pdf%5D) | [code](https://github.com/xiangyue9607/BioNEV)
+  
+- [2017]**Structural deep network embedding**
+
+  Wang D, Cui P, Zhu W
+  
+  [paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939753) | [code](https://github.com/xiangyue9607/BioNEV)
+
+- [2017]**struc2vec: Learning node representations from structural identity**
+
+  Ribeiro LF, Saverese PH, Figueiredo DR
+  
+  [paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098061) | [code](https://github.com/xiangyue9607/BioNEV)
+
+- [2018]**Feature-derived graph regularized matrix factorization for predicting drug side effects**
+
+  Zhang W, Liu X, Chen Y, et al
+  
+  [paper](https://doi.org/10.1016/j.neucom.2018.01.085) | [code](None)
+
+- [2019]**Detecting drug communities and predicting comprehensive drug–drug interactions via balance regularized semi-nonnegative matrix factorization**
+
+  Shi JY, Mao KT, Yu H, et al
+  
+  [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0352-9) | [code](None)
+  
+#### Link prediction
+
+- [2018]**Modeling polypharmacy side effects with graph convolutional networks**
+
+  Zitnik M, Agrawal M, Leskovec J
+  
+  [paper](https://doi.org/10.1093/bioinformatics/bty294) | [code](https://github.com/mims-harvard/decagon)
+  
+- [2019]**LR-GNN: a graph neural network based on link representation for predicting molecular associations**
+
+  Xu N, Wang P, Chen L, et al
+  
+  [paper](https://arxiv.org/pdf/1905.09558) | [code](https://github.com/zhanglabNKU/LR-GNN)
+  
+- [2020]**Skipgnn: predicting molecular interactions with skip-graph networks**
+
+  Huang K, Xiao C, Glass LM, et al
+  
+  [paper](https://link.springer.com/content/pdf/10.1038/s41598-020-77766-9.pdf) | [code](https://github.com/kexinhuang12345/SkipGNN)
+  
+- [2021]**Predicting biomedical interactions with higher-order graph convolutional networks**
+
+  Kishan K, Li R, Cui F, et al
+  
+  [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9354550) | [code](https://github.com/kckishan/HOGCN-LP)
+  
+- [2022]**Directed graph attention networks for predicting asymmetric drug–drug interactions**
+
+  Feng YY, Yu H, Feng YH, et al
+  
+  [paper](https://doi.org/10.1093/bib/bbac151) | [code](https://github.com/naodandandan/DANN-DDI)
+
+- [2022]**Directed graph attention networks for predicting asymmetric drug–drug interactions**
+
+  Feng YY, Yu H, Feng YH, et al
+  
+  [paper](https://doi.org/10.1093/bib/bbab513) | [code](https://github.com/F-windyy/DGATDDI)
+  
+#### Knowledge graph
+
+- [2019]**Drug-drug interaction prediction based on knowledge graph embeddings and convolutional-lstm network**
+
+  Karim MR, Cochez M, Jares JB, et al  
+  
+  [paper](https://doi.org/10.1145/3307339.3342161) | [code](https://github.com/rezacsedu/Drug-Drug-Interaction-Prediction)
+  
+- [2020]**Kgnn: Knowledge graph neural network for drug-drug interaction prediction**
+
+  Lin X, Quan Z, Wang ZJ, et al  
+  
+  [paper](https://xuanlin1991.github.io/files/publications/ijcai20.pdf) | [code](https://github.com/xzenglab/KGNN)
+
+- [2021]**Drug–drug interaction prediction with wasserstein adversarial autoencoder-based knowledge graph embeddings**
+
+  Dai Y, Guo C, Guo W, et al  
+  
+  [paper](https://arxiv.org/pdf/2004.07341.pdf) | [code](https://github.com/dyf0631/AAE_FOR_KG)
+
+- [2021]**Sumgnn: multi-typed drug interaction prediction via efficient knowledge graph summarization**
+
+  Yu Y, Huang K, Zhang C, et al  
+  
+  [paper](https://academic.oup.com/bioinformatics/article/37/18/2988/6189090) | [code](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/18/10.1093_bioinformatics_btab207/1/btab207_supplementary_data.pdf?Expires=1680164796&Signature=2zrjvCV58kqHfl1yG5TbcRIunIGGFV-sRwKDXEFyLbCerqDyIopuTdwSIuClQBZgiAKaHELtH8B-cno58PCI80KSs5fs34RpT5ZZXxEF3r8qT55U5ePDgV7xAURkiuBYp4M0BqmXBW-aJxKlnK7HNzI~4~v~uBHmGnxb8SaOtXnJPfqeB0MUXXceWCRwx001MTTYSMt7OXippEGGGhgAXng3LPWuEPqq6ZmMo7YHZtn6EW1OSutosHsNMTVIblf35aDIk-ognjEI8SWbzLDufQAKwLJ4IgJGnwgdk1zNw8QTqAVvKYBU84iO~iI6EYxGftnVsVl~6z~4EPzJB0Tn~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+  
+- [2022]**Link-aware graph attention network for drug-drug interaction prediction**
+
+  Hong Y, Luo P, Jin S, et al 
+  
+  [paper](https://academic.oup.com/bioinformatics/article/38/24/5406/6769887?login=false) | [code](https://github.com/Azra3lzz/LaGAT)
+
+- [2022]**Attention-based knowledge graph representation learning for predicting drug-drug interactions**
+
+  Su X, Hu L, You Z, et al  
+  
+  [paper](https://academic.oup.com/bib/article-abstract/23/3/bbac140/6572660) | [code](https://github.com/Blair1213/DDKG)
   
 
 ### Hybrid method
