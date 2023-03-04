@@ -5,16 +5,16 @@ This is a repository to help all readers who are interested in DDIs prediction. 
 
 - [Datasets](#Datasets)
 - [Methods](#Methods)
-  - [Hybrid method](#Hybrid-method)
   - [Network based](#Network-based)
-    - [Knowledge graph](#Knowledge-graph)
-    - [Link prediction](#Link-prediction)
     - [Graph embedding](#Graph-embedding)
+    - [Link prediction](#Link-prediction)
+    - [Knowledge graph](#Knowledge-graph)
   - [NLP based](#NLP-based)
   - [Chemical structure based](#Chemical-structure-based)
-    - [Substructure based](#Substructure-based)
-    - [Molecular graph](#Molecular-graph)
     - [Similarity based](#Similarity-based)
+    - [Molecular graph](#Molecular-graph)
+    - [Substructure based](#Substructure-based)
+  - [Hybrid method](#Hybrid-method)
 - [Baseline models](#Baseline-models)
 - [Platform and toolkit](#Platform-and-toolkit)
 
@@ -41,33 +41,6 @@ http://snap.stanford.edu/biodata/
 
 
 ## Methods
-
-### Hybrid method
-
-- [2020]**Gognn: Graph of graphs neural network for predicting structured entity interactions**
-
-  Wang H, Lian D, Zhang Y, et al  
-  
-  [paper](https://doi.org/10.24963/ijcai.2020/183) | [code](https://github.com/Hanchen-Wang/GoGNN)
-
-- [2021]**Muffin: multi-scale feature fusion for drug–drug interaction prediction**
-
-  Chen Y, Ma T, Yang X, et al  
-  
-  [paper](https://www.researchgate.net/profile/Jianmin-Wang-3/publication/350100336_MUFFIN_Multi-Scale_Feature_Fusion_for_Drug-Drug_Interaction_Prediction/links/6063bb6592851cd8ce7ad5c1/MUFFIN-Multi-Scale-Feature-Fusion-for-Drug-Drug-Interaction-Prediction.pdf) | [code](https://github.com/xzenglab/MUFFIN.)
-
-- [2021]**Multi-view graph contrastive representation learning for drug-drug interaction prediction**
-
-  Wang Y, Min Y, Chen X, et al  
-  
-  [paper](https://arxiv.org/pdf/2010.11711.pdf) | [code](https://github.com/isjakewong/MIRACLE)
-
-
-- [2022]**Amde: A novel attention-mechanism-based multidimensional feature encoder for drug–drug interaction prediction**
-
-  Pang S, Zhang Y, Song T, et al  
-  
-  [paper](https://doi.org/10.1093/bib/bbab545) | [code](https://github.com/wan-Ying-Z/AMDE-master)
   
   
 ### Network based
@@ -225,108 +198,6 @@ http://snap.stanford.edu/biodata/
 
 ### Chemical structure based
 
-#### Substructure based
-
-- [2020]**Caster: Predicting drug interactions with chemical substructure representation**
-
-  Huang K, Xiao C, Hoang T, et al
-  
-  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5412/5268) | [code](https://github.com/kexinhuang12345/)
-
-- [2021]**Ssi-ddi: substructure-substructure interactions for drug–drug interaction prediction**
-
-  Nyamabo AK, Yu H, Shi JY
-  
-  [paper](https://doi.org/10.1093/bib/bbab133) | [code](https://github.com/kanz76/SSI-DDI)
-  
-- [2021]**Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructure-aware graph neural network**
-
-  Nyamabo AK, Yu H, Shi JY
-  
-  [paper](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc02023h) | [code](https://github.com/guaguabujianle/SA-DDI)
-
-- [2022]**Drug-drug interaction prediction with learnable size-adaptive molecular substructures**
-
-  Nyamabo AK, Yu H, Liu Z, et al
-  
-  [paper](https://doi.org/10.1093/bib/bbab441) | [code](https://github.com/kanz76/GMPNN-CS)
-
-- [2022]**Stnn-ddi: a substructure-aware tensor neural network to predict drug–drug interactio**
-
-  Yu H, Zhao S, Shi J
-  
-  [paper](https://doi.org/10.1093/bib/bbac209) | [code](https://github.com/zsy-9/STNN-DDI)
-
-- [2022]**Molecular substructure-aware network for drug-drug interaction prediction**
-
-  Zhu X, Shen Y, Lu W
-  
-  [paper](https://dl.acm.org/doi/10.1145/3511808.3557648) | [code](https://github.com/Hienyriux/MSAN)
-  
-- [2022]**3dgt-ddi: 3d graph and text based neural network for drug–drug interaction prediction**
-
-  He H, Chen G, Yu-Chian Chen C
-  
-  [paper](https://doi.org/10.1093/bib/bbac134) | [code](https://github.com/hehh77/3DGT-DDI)
-
-- [2023]**Dsn-ddi: an accurate and generalized framework for drug–drug interaction prediction by dual-view representation learning**
-
-  Li Z, Zhu S, Shao B, et al
-  
-  [paper](https://doi.org/10.1093/bib/bbac597) | [code](https://github.com/microsoft/Drug-Interaction-Research/tree/DSN-DDI-for-DDI-Prediction)
-
-- [2023]**A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions**
-
-  Ma M, Lei X
-  
-  [paper](https://doi.org/10.1371/journal.pcbi.1010812) | [code](https://github.com/mamei1016/DGNN-DDI)
-
-
-#### Molecular graph
-
-- [2019]**Mr-gnn: Multi-resolution and dual graph neural network for predicting structured entity interactions**
-
-  Xu N, Wang P, Chen L, et al
-  
-  [paper](https://doi.org/10.24963/ijcai.2019/551) | [code](https://github.com/prometheusXN/MR-GNN)
-
-- [2019]**Drug-drug adverse effect prediction with graph co-attention**
-
-  Deac A, Huang YH, Veliˇckovi´c P, et al
-  
-  [paper](https://arxiv.org/abs/1905.00534) | [code](https://github.com/AstraZeneca/chemicalx)
-
-- [2020]**Structure-based drug-drug interaction detection via expressive graph convolutional networks and deep sets (student abstract)**
-
-  Sun M, Wang F, Elemento O, et al
-  
-  [paper](https://doi.org/10.1609/aaai.v34i10.7236) | [code](https://github.com/AstraZeneca/chemicalx)
-
-- [2022]**Multi-type feature fusion based on graph neural network for drug-drug interaction prediction**
-
-  He C, Liu Y, Li H, et al
-  
-  [paper](https://link.springer.com/article/10.1186/s12859-022-04763-2) | [code](https://github.com/kaola111/mff)
-
-- [2022]**Molormer: a lightweight self-attentionbased method focused on spatial structure of molecular graph for drug–drug interactions prediction**
-
-  Zhang X, Wang G, Meng X, et al
-  
-  [paper](https://doi.org/10.1093/bib/bbac296) | [code](https://github.com/IsXudongZhang/Molormer)
-
-- [2022]**Deepdrug: A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction**
-
-  Chen Y, Ma T, Yang X, et al
-  
-  [paper](https://doi.org/10.1101/2020.11.09.375626) | [code](https://github.com/wanwenzeng/deepdrug)
-
-- [2022]**R2-ddi: relation-aware feature refinement for drug–drug interaction prediction**
-
-  Lin J, Wu L, Zhu J, et al
-  
-  [paper](https://doi.org/10.1093/bib/bbac576) | [code](https://github.com/linjc16/R2-DDI)
-
-
 #### Similarity based
 
 - [2017]**Computational prediction of drug-drug interactions based on drugs functional similarities**
@@ -395,6 +266,135 @@ http://snap.stanford.edu/biodata/
   
   [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00659-8) | [code](https://github.com/ShenggengLin/MDDI-SCL)
 
+#### Molecular graph
+
+- [2019]**Mr-gnn: Multi-resolution and dual graph neural network for predicting structured entity interactions**
+
+  Xu N, Wang P, Chen L, et al
+  
+  [paper](https://doi.org/10.24963/ijcai.2019/551) | [code](https://github.com/prometheusXN/MR-GNN)
+
+- [2019]**Drug-drug adverse effect prediction with graph co-attention**
+
+  Deac A, Huang YH, Veliˇckovi´c P, et al
+  
+  [paper](https://arxiv.org/abs/1905.00534) | [code](https://github.com/AstraZeneca/chemicalx)
+
+- [2020]**Structure-based drug-drug interaction detection via expressive graph convolutional networks and deep sets (student abstract)**
+
+  Sun M, Wang F, Elemento O, et al
+  
+  [paper](https://doi.org/10.1609/aaai.v34i10.7236) | [code](https://github.com/AstraZeneca/chemicalx)
+
+- [2022]**Multi-type feature fusion based on graph neural network for drug-drug interaction prediction**
+
+  He C, Liu Y, Li H, et al
+  
+  [paper](https://link.springer.com/article/10.1186/s12859-022-04763-2) | [code](https://github.com/kaola111/mff)
+
+- [2022]**Molormer: a lightweight self-attentionbased method focused on spatial structure of molecular graph for drug–drug interactions prediction**
+
+  Zhang X, Wang G, Meng X, et al
+  
+  [paper](https://doi.org/10.1093/bib/bbac296) | [code](https://github.com/IsXudongZhang/Molormer)
+
+- [2022]**Deepdrug: A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction**
+
+  Chen Y, Ma T, Yang X, et al
+  
+  [paper](https://doi.org/10.1101/2020.11.09.375626) | [code](https://github.com/wanwenzeng/deepdrug)
+
+- [2022]**R2-ddi: relation-aware feature refinement for drug–drug interaction prediction**
+
+  Lin J, Wu L, Zhu J, et al
+  
+  [paper](https://doi.org/10.1093/bib/bbac576) | [code](https://github.com/linjc16/R2-DDI)
+
+#### Substructure based
+
+- [2020]**Caster: Predicting drug interactions with chemical substructure representation**
+
+  Huang K, Xiao C, Hoang T, et al
+  
+  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5412/5268) | [code](https://github.com/kexinhuang12345/)
+
+- [2021]**Ssi-ddi: substructure-substructure interactions for drug–drug interaction prediction**
+
+  Nyamabo AK, Yu H, Shi JY
+  
+  [paper](https://doi.org/10.1093/bib/bbab133) | [code](https://github.com/kanz76/SSI-DDI)
+  
+- [2021]**Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructure-aware graph neural network**
+
+  Nyamabo AK, Yu H, Shi JY
+  
+  [paper](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc02023h) | [code](https://github.com/guaguabujianle/SA-DDI)
+
+- [2022]**Drug-drug interaction prediction with learnable size-adaptive molecular substructures**
+
+  Nyamabo AK, Yu H, Liu Z, et al
+  
+  [paper](https://doi.org/10.1093/bib/bbab441) | [code](https://github.com/kanz76/GMPNN-CS)
+
+- [2022]**Stnn-ddi: a substructure-aware tensor neural network to predict drug–drug interactio**
+
+  Yu H, Zhao S, Shi J
+  
+  [paper](https://doi.org/10.1093/bib/bbac209) | [code](https://github.com/zsy-9/STNN-DDI)
+
+- [2022]**Molecular substructure-aware network for drug-drug interaction prediction**
+
+  Zhu X, Shen Y, Lu W
+  
+  [paper](https://dl.acm.org/doi/10.1145/3511808.3557648) | [code](https://github.com/Hienyriux/MSAN)
+  
+- [2022]**3dgt-ddi: 3d graph and text based neural network for drug–drug interaction prediction**
+
+  He H, Chen G, Yu-Chian Chen C
+  
+  [paper](https://doi.org/10.1093/bib/bbac134) | [code](https://github.com/hehh77/3DGT-DDI)
+
+- [2023]**Dsn-ddi: an accurate and generalized framework for drug–drug interaction prediction by dual-view representation learning**
+
+  Li Z, Zhu S, Shao B, et al
+  
+  [paper](https://doi.org/10.1093/bib/bbac597) | [code](https://github.com/microsoft/Drug-Interaction-Research/tree/DSN-DDI-for-DDI-Prediction)
+
+- [2023]**A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions**
+
+  Ma M, Lei X
+  
+  [paper](https://doi.org/10.1371/journal.pcbi.1010812) | [code](https://github.com/mamei1016/DGNN-DDI)
+  
+
+### Hybrid method
+
+- [2020]**Gognn: Graph of graphs neural network for predicting structured entity interactions**
+
+  Wang H, Lian D, Zhang Y, et al  
+  
+  [paper](https://doi.org/10.24963/ijcai.2020/183) | [code](https://github.com/Hanchen-Wang/GoGNN)
+
+- [2021]**Muffin: multi-scale feature fusion for drug–drug interaction prediction**
+
+  Chen Y, Ma T, Yang X, et al  
+  
+  [paper](https://www.researchgate.net/profile/Jianmin-Wang-3/publication/350100336_MUFFIN_Multi-Scale_Feature_Fusion_for_Drug-Drug_Interaction_Prediction/links/6063bb6592851cd8ce7ad5c1/MUFFIN-Multi-Scale-Feature-Fusion-for-Drug-Drug-Interaction-Prediction.pdf) | [code](https://github.com/xzenglab/MUFFIN.)
+
+- [2021]**Multi-view graph contrastive representation learning for drug-drug interaction prediction**
+
+  Wang Y, Min Y, Chen X, et al  
+  
+  [paper](https://arxiv.org/pdf/2010.11711.pdf) | [code](https://github.com/isjakewong/MIRACLE)
+
+
+- [2022]**Amde: A novel attention-mechanism-based multidimensional feature encoder for drug–drug interaction prediction**
+
+  Pang S, Zhang Y, Song T, et al  
+  
+  [paper](https://doi.org/10.1093/bib/bbab545) | [code](https://github.com/wan-Ying-Z/AMDE-master)
+  
+  
 
 
 ## Baseline models
