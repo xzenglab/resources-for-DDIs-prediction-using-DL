@@ -4,20 +4,20 @@ Updating ...
 
 ## Menu
 
-- [Datasets](##Datasets)
-- [Methods](##Methods)
-  - [Hybrid method](###Hybrid method)
-  - [Network based](###Network based)
-    - [Knowledge graph](####Knowledge graph)
-    - [Link prediction](####Link prediction)
-    - [Graph embedding](####Graph embedding)
-  - [NLP based](###NLP based)
-  - [Chemical structure based](###Chemical structure based)
-    - [Structure based](####Structure based)
-    - [Molecular based](####Molecular based)
-    - [Similarity based](####Similarity based)
-- [Baseline models](##Baseline models)
-
+- [Datasets](#Datasets)
+- [Platform and toolkit](#Platform and toolkit)
+- [Methods](#Methods)
+  - [Hybrid method](#Hybrid method)
+  - [Network based](#Network based)
+    - [Knowledge graph](#Knowledge graph)
+    - [Link prediction](#Link prediction)
+    - [Graph embedding](#Graph embedding)
+  - [NLP based](#NLP based)
+  - [Chemical structure based](#Chemical structure based)
+    - [Structure based](#Structure based)
+    - [Molecular based](#Molecular based)
+    - [Similarity based](#Similarity based)
+- [Baseline models](#Baseline models)
 
 
 ## Datasets
@@ -45,6 +45,18 @@ https://tatonettilab.org/resources/tatonetti-stm.html
 **BIOSNAP**
 
 http://snap.stanford.edu/biodata/
+
+
+
+## Platform and toolkit
+
+- [DeepChem](https://deepchem.io/)
+- [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose)
+- [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix)
+- [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)
+- [TorchDrug](https://torchdrug.ai/)
+- [ADMETlab](https://admetmesh.scbdd.com/)
+- [ChemicalX](https://github.com/AstraZeneca/chemicalx)
 
 
 
