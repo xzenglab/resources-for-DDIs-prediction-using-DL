@@ -253,13 +253,13 @@ http://snap.stanford.edu/biodata/
 
   [paper](https://doi.org/10.1093/bib/bbab441)|[code](https://github.com/kanz76/GMPNN-CS)
 
-- **Stnn-ddi: a substructure-aware tensor neural network to predict drug–drug interactio**[2022b]
+- **Stnn-ddi: a substructure-aware tensor neural network to predict drug–drug interactio**[2022b]
 
   Yu H, Zhao S, Shi J
 
   [paper](https://doi.org/10.1093/bib/bbac209)|[code](https://github.com/zsy-9/STNN-DDI)
 
-- ** Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructureaware graph neural network.**[2021]
+- **Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructure-aware graph neural network**[2021]
 
   Nyamabo AK, Yu H, Shi JY
 
@@ -280,7 +280,7 @@ http://snap.stanford.edu/biodata/
   [paper](https://doi.org/10.1093/bib/bbac597)|[code](https://github.com/microsoft/Drug-Interaction-Research/tree/DSN-DDI-for-DDI-Prediction)
 
 
-- ** A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions**[2023]
+- **A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions**[2023]
 
   Ma M, Lei X
 
